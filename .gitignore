@@ -1,0 +1,7 @@
+# Ignore everything by default, then add back files that are wanted
+/*
+
+!.gitignore
+!README.md
+!src/
+
