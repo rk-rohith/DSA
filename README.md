@@ -12,6 +12,7 @@
 
 ## Strings:
 - [x] Valid Anagram [Leetcode](https://leetcode.com/problems/valid-anagram/) | [Solution Approach](https://leetcode.com/problems/valid-anagram/solutions/4460330/valid-anagram/)
+- [X] Valid Parentheses [Leetcode](https://leetcode.com/problems/valid-parentheses/) | [Solution Approach](https://leetcode.com/problems/valid-parentheses/solutions/4460537/valid-paranthesis/)
 
 ## Linked List:
 

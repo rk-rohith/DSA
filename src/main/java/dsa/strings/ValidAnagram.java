@@ -8,7 +8,7 @@ package main.java.dsa.strings;
 
 import java.util.Arrays;
 
-public class Anagram {
+public class ValidAnagram {
     public static void main(String[] args) {
         String s1 = "listen";
         String s2 = "silent";
