@@ -6,7 +6,7 @@
  */
 
 
-package main.java.dsa.arrays;
+package main.java.codingproblems.arrays;
 
 import java.util.Arrays;
 import java.util.HashMap;

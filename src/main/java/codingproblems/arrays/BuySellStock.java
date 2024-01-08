@@ -4,7 +4,7 @@
  * Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
  * Example 2: Input: prices = [7,6,4,3,1] Output: 0 Explanation: In this case, no transactions are done, so the max profit is 0.
  */
-package main.java.dsa.arrays;
+package main.java.codingproblems.arrays;
 
 public class BuySellStock {
     public static void main(String[] args) {

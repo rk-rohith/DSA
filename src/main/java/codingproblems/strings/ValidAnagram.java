@@ -4,7 +4,7 @@
  * For example, given the strings s = "anagram" and t = "nagaram", the function should return true, as the two strings are anagrams of each other.
  * However, for the strings s = "rat" and t = "car", the function should return false, as they are not anagrams of each other.
  */
-package main.java.dsa.strings;
+package main.java.codingproblems.strings;
 
 import java.util.Arrays;
 

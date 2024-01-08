@@ -9,7 +9,7 @@
  * For the input string "(]", the output should be false because the brackets are not closed in the correct order.
  * The constraints are that the length of the input string is between 1 and 10,000, and the string consists only of the characters '(', ')', '{', '}', '[' and ']'.
  */
-package main.java.dsa.strings;
+package main.java.codingproblems.strings;
 
 import java.util.Stack;
 

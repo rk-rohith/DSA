@@ -3,7 +3,7 @@
  * For example, given the input array [1, 2, 3, 1], the function should return true because the value 1 appears more than once in the array.
  * Given the input array [3, 1], the function should return false because every value in the array is distinct.
  */
-package main.java.dsa.arrays;
+package main.java.codingproblems.arrays;
 
 import java.util.HashSet;
 import java.util.Set;
